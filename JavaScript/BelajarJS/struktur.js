@@ -3,7 +3,7 @@ console.log(hobi[0]); // akses item pertama
 
 //object
 let siswa = {
-    nama: "Andi",
+    nama: "Kevin",
     umur: 16,
     jurusan: "RPL"
 };
